@@ -57,12 +57,11 @@ Proyek ini adalah implementasi tugas akhir mata kuliah *Machine Learning* di Uni
 - Evaluasi: **Silhouette Score > 0.75**
 
 ### **Klasifikasi**
-----------------------------------------------
+---
 | Model                | Accuracy | F1-Score |
 |----------------------|----------|----------|
 | Random Forest        | 99.75%   | 99.75%   |
 | Logistic Regression  | 98.98%   | 98.98%   |
-----------------------------------------------
 ---
 
 ## 🎓 **Informasi Tambahan**
