@@ -28,13 +28,13 @@ Proyek ini adalah implementasi tugas akhir mata kuliah *Machine Learning* di Uni
 
 
 📁 Proyek_Machine_Learning  
-│  
+ │  
 ├── Customers.csv                          # Dataset mentah awal  
 ├── Clustering_Customers_result.csv        # Dataset hasil Clustering
 │  
 ├── [Klasifikasi]_Submission_Akhir_Adam Miftahul Falah.ipynb  # Notebook Klasifikasi  
 ├── [Clustering]_Submission_Akhir_BMLP_Adam Miftahul Falah.ipynb # Notebook Clustering  
-│  
+ │  
 └── README.md                          # Dokumentasi proyek ini  
 
 ---
